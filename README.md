@@ -1,3 +1,3 @@
-# About the files
+# About the Files
 ---
-* Universe.sql for ***postgres relational database certification***
+* **universe.sql** for ***PostgreSQL relational database certification***
